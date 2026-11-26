@@ -1,0 +1,9 @@
+Build a make.fun bounty entry for slug u-suroto-worst-superpower-461dcdbe ("Worst Superpower", $2 winner-take-all, Growth one-liner, deadline 27 Nov 2026 00:30 WIB).
+
+The entry program (main.py at the repo root, Python 3 standard library only, no network, no randomness) must write ONE funny one-liner to /output/entry.txt: invent the most useless superpower imaginable, in a single line of 1-140 characters.
+
+Judge criteria, most important first: (1) the power is genuinely useless, the worst and most pointless imaginable, stated in one line; (2) the uselessness lands as a joke — the reader pictures the power in use and laughs at how little it achieves; (3) the idea is unexpected, not a familiar gag (no slow flight, no invisibility-only-when-unwatched); (4) tight, specific wording with a concrete detail; (5) clear on a single reading with no setup. A curse, a quietly helpful power, or shock value does not count.
+
+Chosen line: "I can instantly count every grain of rice in a bowl — but only after I've already eaten all of it." (98 characters). It is original, concrete (a grain count), instantly visual (a hero solemnly reporting the count of an empty bowl), and perfectly useless — the information arrives exactly when it can never be used.
+
+Requirements: verify the kit files against the official manifest (8/8 matched), write the entry deterministically, run it twice and compare outputs byte for byte, include an MIT LICENSE (license_osi gate) and a README with three slug-specific badges each linked to https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe, and git init + commit in repo/ as Lodiaj.
